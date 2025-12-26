@@ -207,7 +207,7 @@ I'm a passionate Electrical & Electronics Engineering student with a strong curi
 
 </div>
 
-*Last Updated: December 2023*
+*Last Updated: December 2025*
 
 ---
 
