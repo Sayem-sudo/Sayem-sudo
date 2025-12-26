@@ -1,12 +1,11 @@
-# 👨‍💻 Md. Sayem Khan
+# Md. Sayem Khan
 
 <div align="center">
   
 **⚡ Electrical & Electronics Engineering Student | 💻 Tech Enthusiast | 👨‍💻 Programmer**
 
 [![Email](https://img.shields.io/badge/Email-sayemkhan8920@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sayemkhan8920@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sayem-khan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github&logoColor=white)](https://github.com/sayemkhan8920)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sayem-khan/)
 [![EEE Student](https://img.shields.io/badge/📚-EEE%20Student-9cf?style=flat)]()
 
 </div>
@@ -82,24 +81,6 @@ I'm a passionate Electrical & Electronics Engineering student with a strong curi
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Skill Proficiency
-
-### **Electrical Engineering Skills**
-- **Circuit Design & Analysis** ⭐⭐⭐⭐⭐
-- **Power Systems** ⭐⭐⭐⭐☆
-- **MATLAB/Simulink** ⭐⭐⭐⭐☆
-- **Embedded Systems** ⭐⭐⭐☆☆
-- **PCB Design** ⭐⭐⭐☆☆
-
-### **Programming Skills**
-- **C++** ⭐⭐⭐⭐☆
-- **Java** ⭐⭐⭐☆☆
-- **OOP Concepts** ⭐⭐⭐⭐☆
-- **Data Structures** ⭐⭐⭐☆☆
-- **Git/GitHub** ⭐⭐⭐☆☆
 
 ---
 
