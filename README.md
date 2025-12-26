@@ -1,128 +1,214 @@
-# Md. Sayem Khan
+# 👨‍💻 Md. Sayem Khan
 
-**Electrical & Electronics Engineering Student** | Technology Enthusiast | Programmer
+<div align="center">
+  
+**⚡ Electrical & Electronics Engineering Student | 💻 Tech Enthusiast | 👨‍💻 Programmer**
 
----
+[![Email](https://img.shields.io/badge/Email-sayemkhan8920@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sayemkhan8920@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sayem-khan)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github&logoColor=white)](https://github.com/sayemkhan8920)
+[![EEE Student](https://img.shields.io/badge/📚-EEE%20Student-9cf?style=flat)]()
 
-## 📧 Contact Information
-- **Email:** [sayemkhan8920@gmail.com](mailto:sayemkhan8920@gmail.com)
-- **Location:** Dhaka, Bangladesh
-- **LinkedIn:** [Md. Sayem Khan](https://www.linkedin.com/in/md-sayem-khan) *(example link - replace with actual)*
-- **GitHub:** [sayemkhan8920](https://github.com/sayemkhan8920) *(example link - replace with actual)*
-
----
-
-## 👨‍🎓 Academic Background
-**Bachelor of Science in Electrical & Electronics Engineering (EEE)**  
-*Currently pursuing degree with focus on:*
-- Power Systems & Renewable Energy
-- Control Systems & Automation
-- Digital Electronics & Microprocessors
-- Electrical Machines & Drives
+</div>
 
 ---
 
-## 💻 Technical Skills
+## 📖 About Me
 
-### **Electrical Engineering**
-- Circuit Design & Analysis
-- Power Systems
-- MATLAB/Simulink
-- PLC Programming
-- PCB Design (Eagle/KiCad)
-- Embedded Systems (Arduino, Raspberry Pi)
+<div align="center">
+  
+```cpp
+class EEE_Engineer {
+private:
+    string name = "Md. Sayem Khan";
+    string specialization = "Electrical & Electronics Engineering";
+    vector<string> interests = {"Power Systems", "Embedded Systems", 
+                                "Programming", "Renewable Energy"};
+public:
+    void solveProblems();
+    void innovate();
+    void code();
+};
+```
 
-### **Programming & Software**
-- **C++** (Intermediate)
-- **Java** (Intermediate)
-- Python (Beginner)
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Version Control (Git/GitHub)
+</div>
 
-### **Tools & Technologies**
-- Proteus Design Suite
-- AutoCAD Electrical
-- MS Office Suite
-- LaTeX (Technical Documentation)
+I'm a passionate Electrical & Electronics Engineering student with a strong curiosity for technology and programming. I enjoy bridging the gap between hardware and software, creating innovative solutions that combine electrical engineering principles with modern programming techniques.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Technical Stack
 
-### **Electrical/Electronics Projects**
-1. **Smart Energy Monitoring System**
-   - Real-time power consumption tracking using IoT sensors
-   - Data visualization with web dashboard
+### **🔌 Electrical Engineering**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="48" height="48" alt="Raspberry Pi" />
+      <br>Raspberry Pi
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/autocad-1.svg" width="48" height="48" alt="AutoCAD" />
+      <br>AutoCAD
+    </td>
+  </tr>
+</table>
 
-2. **Home Automation System**
-   - Voice-controlled electrical appliances
-   - Integration with Arduino and relay modules
-
-3. **Solar Power Optimization**
-   - MPPT (Maximum Power Point Tracking) simulation in MATLAB
-   - Efficiency analysis of photovoltaic systems
-
-### **Programming Projects**
-1. **Student Management System** (Java)
-   - Console-based application with CRUD operations
-   - File handling for data persistence
-
-2. **Circuit Simulator Tool** (C++)
-   - Basic DC circuit analysis
-   - Voltage and current calculations
-
----
-
-## 🎯 Career Interests
-- Power System Engineering
-- Embedded Systems Development
-- Industrial Automation
-- Software Engineering for Hardware Systems
-- Renewable Energy Technologies
-- IoT & Smart Grid Solutions
-
----
-
-## 📚 Currently Learning
-- Advanced Java Programming
-- Data Structures in C++
-- PLC & SCADA Systems
-- Python for Electrical Engineering Applications
-- Machine Learning Basics
-
----
-
-## 🌟 Professional Attributes
-- Strong analytical and problem-solving skills
-- Ability to bridge hardware and software domains
-- Quick learner with adaptability to new technologies
-- Detail-oriented with systematic approach to engineering challenges
-- Effective communication and teamwork abilities
+### **💻 Programming Languages**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
-*(Add your GitHub stats here once you start pushing projects)*
-```bash
-# Example placeholder for GitHub stats
-Coming soon: Project repositories and contributions
+## 📊 Skill Proficiency
+
+### **Electrical Engineering Skills**
+- **Circuit Design & Analysis** ⭐⭐⭐⭐⭐
+- **Power Systems** ⭐⭐⭐⭐☆
+- **MATLAB/Simulink** ⭐⭐⭐⭐☆
+- **Embedded Systems** ⭐⭐⭐☆☆
+- **PCB Design** ⭐⭐⭐☆☆
+
+### **Programming Skills**
+- **C++** ⭐⭐⭐⭐☆
+- **Java** ⭐⭐⭐☆☆
+- **OOP Concepts** ⭐⭐⭐⭐☆
+- **Data Structures** ⭐⭐⭐☆☆
+- **Git/GitHub** ⭐⭐⭐☆☆
+
+---
+
+## 🚀 Featured Projects
+
+### **⚡ Smart Energy Monitoring System**
+> **Tech Stack:** Arduino • IoT • C++ • Web Dashboard
+```
+📊 Real-time power consumption tracking
+📱 Mobile app integration
+🌐 Cloud data storage
+📈 Analytics dashboard
+```
+
+### **🏠 Home Automation System**
+> **Tech Stack:** Raspberry Pi • Python • Relay Modules • Voice Control
+```
+🎤 Voice-controlled appliances
+📱 Remote control via smartphone
+🔄 Automation scheduling
+🔒 Security features
+```
+
+### **🎓 Student Management System**
+> **Tech Stack:** Java • OOP • File Handling
+```
+👥 Student data management
+📊 Grade tracking
+📁 File persistence
+🖥️ Console-based UI
 ```
 
 ---
 
-## 📫 Let's Connect!
-I'm always interested in:
-- Collaborating on innovative EEE projects
-- Discussing technology and programming
-- Learning opportunities in tech/engineering fields
-- Research in renewable energy and smart systems
+## 📈 GitHub Stats
 
-Feel free to reach out via email or connect on professional networks!
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayemkhan8920&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayemkhan8920&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| **Skill** | **Progress** |
+|-----------|--------------|
+| **Advanced C++** | 🔵🔵🔵🔵⚪ |
+| **Power Electronics** | 🔵🔵🔵⚪⚪ |
+| **IoT Development** | 🔵🔵🔵⚪⚪ |
+| **Machine Learning** | 🔵🔵⚪⚪⚪ |
+
+</div>
 
 ---
 
-*"Engineering the future by merging electrical expertise with programming prowess."*
+## 🏆 Achievements & Certifications
+
+```diff
++ 🥇 MATLAB Onramp Certification
++ 🥈 Arduino Programming Basics
++ 🥉 Java Fundamentals
+# 📜 More coming soon...
+```
 
 ---
+
+## 📝 Blog & Writings
+*(Coming Soon)*
+> Sharing knowledge about EEE concepts and programming tutorials
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+**I'm interested in:**
+- 🔋 Renewable Energy Projects
+- 🤖 Embedded Systems Development
+- 💻 Open Source Contributions
+- 📚 Research Opportunities
+
+</div>
+
+---
+
+<div align="center">
+
+### **📫 How to Reach Me**
+
+[![Email](https://img.shields.io/badge/📧-Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:sayemkhan8920@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/👔-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-sayem-khan)
+[![Projects](https://img.shields.io/badge/🚀-View%20Projects-black?style=for-the-badge&logo=github)](https://github.com/sayemkhan8920)
+
+---
+
+**⚡ "Engineering tomorrow's solutions with today's knowledge" ⚡**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
+
 *Last Updated: December 2023*
+
+---
+
+> **Note:** Replace placeholder GitHub username and LinkedIn URL with your actual profiles. The GitHub stats will automatically update when you start pushing repositories.
