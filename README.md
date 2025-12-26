@@ -178,7 +178,6 @@ I'm a passionate Electrical & Electronics Engineering student with a strong curi
 
 [![Email](https://img.shields.io/badge/📧-Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:sayemkhan8920@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/👔-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-sayem-khan)
-[![Projects](https://img.shields.io/badge/🚀-View%20Projects-black?style=for-the-badge&logo=github)](https://github.com/sayemkhan8920)
 
 ---
 
