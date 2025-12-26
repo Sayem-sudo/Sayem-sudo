@@ -154,7 +154,6 @@ I'm a passionate Electrical & Electronics Engineering student with a strong curi
 
 ## 📝 Blog & Writings
 *(Coming Soon)*
-> Sharing knowledge about EEE concepts and programming tutorials
 
 ---
 
